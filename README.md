@@ -1,12 +1,11 @@
-###  Desarrollo Web
 
-<p>
-Propósito:
-</p>
+  # smart tube prototipo
 
-- Albergar código fuente estructurado en ramas
+  This is a code bundle for smart tube prototipo. The original project is available at https://www.figma.com/design/d3segp44781iZGwXqXGva1/smart-tube-prototipo.
 
-- Guardar commits descriptivos y versiones etiquetadas. 
+  ## Running the code
 
+  Run `npm i` to install the dependencies.
 
-***
+  Run `npm run dev` to start the development server.
+  
